@@ -1,0 +1,17 @@
+Jeudi 21/10:
+Lecture du DF
+Savoir reconnaître la bonne manière de scaler les données
+Réutilisation de StrandardScaler ou MinMaxScaler sur des colonnes choisies
+
+Vendredi 22/10:
+Etudes des ensembles méthodes
+Utilisation des model de Bagging et Boosting
+
+Mercredi 27/10:
+Etude des différentes itérations des models
+Savoir choisir la bonne métric
+
+Jeudi 28/10:
+Mise en commun des résultats
+Choisir le model à mettre dans un pickle
+Réutilisation du pickle
